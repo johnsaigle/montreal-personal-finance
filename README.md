@@ -34,6 +34,10 @@ _Note: Out of date, but the data is easy to replace. See [source code](https://g
 
 https://h3xstream.github.io/montreal_isp/
 
+## Cryptocurrency
+
+[Map of cryptocurrency ATMs](https://coinatmradar.com/city/108/bitcoin-atm-montreal/)
+
 ## Overall cost of living
 
 https://www.numbeo.com/cost-of-living/in/Montreal
