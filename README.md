@@ -12,7 +12,7 @@ https://rentalregistry.ca/en/qc
 
 A comparisons of ISPs
 
-_Note: Out of date, but the data is easy to replace_
+_Note: Out of date, but the data is easy to replace. See [source code](https://github.com/h3xstream/montreal_isp)_
 
 https://h3xstream.github.io/montreal_isp/
 
