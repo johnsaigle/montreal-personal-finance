@@ -1,4 +1,4 @@
-# Montreal Personal Finance
+# Figuring Out Montreal
 
 Useful resources for figuring out the city. Mostly related to personal finance but may also include other helpful
 links.
@@ -19,6 +19,12 @@ https://montreal.ca/en/services/map-lead-service-lines
 ### Landlord Lookup
 
 https://findmylandlord.netlify.app/
+
+## Transit
+
+[STM Codes](https://www.mtlcompass.com/mtl-metro-codes-explained/) -- when the metro stops, sometimes it's useful
+to know why and guess for how long.
+
 
 ## Compare Internet plans
 
