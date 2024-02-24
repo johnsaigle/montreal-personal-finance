@@ -1,12 +1,24 @@
 # Montreal Personal Finance
 
-A collection of resources to see how much things cost.
+Useful resources for figuring out the city. Mostly related to personal finance but may also include other helpful
+links.
 
 ## Housing
 
+### Rent Prices
+
 Crowd-sourced rent prices.
+
 https://rentalregistry.ca/en/qc
 
+### Does your water contain lead?
+
+Interactive map showing which buildings have water service lines containing lead
+https://montreal.ca/en/services/map-lead-service-lines
+
+### Landlord Lookup
+
+https://findmylandlord.netlify.app/
 
 ## Compare Internet plans
 
